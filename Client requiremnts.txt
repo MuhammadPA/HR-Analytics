@@ -1,0 +1,5 @@
+1.Working preference of people 
+ - work from home
+ - work from office
+2. Find sick leave percentage
+3. Presence insights of each employee 
